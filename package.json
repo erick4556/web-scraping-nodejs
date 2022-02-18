@@ -1,0 +1,15 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Web scraping con puppeteer",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Erick Cedeño",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "json2csv": "^5.0.6",
+    "mongoose": "^5.13.14",
+    "puppeteer": "^3.3.0"
+  }
+}
