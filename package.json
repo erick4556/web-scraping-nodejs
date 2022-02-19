@@ -1,7 +1,7 @@
 {
   "name": "web-scraping",
   "version": "1.0.0",
-  "description": "Web scraping con puppeteer",
+  "description": "Web scraping with puppeteer",
   "main": "index.js",
   "scripts": {},
   "author": "Erick Cedeño",
